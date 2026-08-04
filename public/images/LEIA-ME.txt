@@ -1,0 +1,35 @@
+Coloque aqui as fotos, com estes nomes exatos (com espaço, como pedido):
+
+- capa.jpg      -> foto de fundo da seção Capa
+
+Para cada produto de 001 até 017, dois arquivos:
+- 001 a.jpg  / 001 b.jpg
+- 002 a.jpg  / 002 b.jpg
+- 003 a.jpg  / 003 b.jpg
+- 004 a.jpg  / 004 b.jpg
+- 005 a.jpg  / 005 b.jpg
+- 006 a.jpg  / 006 b.jpg
+- 007 a.jpg  / 007 b.jpg
+- 008 a.jpg  / 008 b.jpg
+- 009 a.jpg  / 009 b.jpg
+- 010 a.jpg  / 010 b.jpg
+- 011 a.jpg  / 011 b.jpg
+- 012 a.jpg  / 012 b.jpg
+- 013 a.jpg  / 013 b.jpg
+- 014 a.jpg  / 014 b.jpg
+- 015 a.jpg  / 015 b.jpg
+- 016 a.jpg  / 016 b.jpg
+- 017 a.jpg  / 017 b.jpg
+
+Como funciona a animação (igual em todos os 17 cards):
+- "a" começa visível.
+- Ao passar o mouse (hover), "a" desliza pra fora (esquerda) e "b" desliza
+  pra dentro (da direita pro centro) — troca horizontal.
+- Ao tirar o mouse, "a" volta e "b" sai de novo.
+- 100% CSS (transition + transform), sem JavaScript.
+
+Formato recomendado: JPG, largura mínima de ~900px, mesma proporção
+entre "a" e "b" do mesmo produto pra transição ficar sem "pulos".
+
+O card "Faça já o seu pedido" (no fim da página) agora é clicável e
+abre o WhatsApp direto com a mensagem pré-pronta.
