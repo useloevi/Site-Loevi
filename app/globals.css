@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-be-vietnam-pro), "Be Vietnam Pro", Arial, sans-serif;
+  background-color: #f9f5ec;
+  color: #1b3125;
+}

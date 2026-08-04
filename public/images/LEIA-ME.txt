@@ -1,0 +1,23 @@
+Coloque aqui as fotos, com estes nomes exatos:
+
+- capa.jpg      -> foto de fundo da seção Capa
+
+PÁGINA 1 — Colares (com espaço no nome, "a"/"b"):
+- 001 a.jpg / 001 b.jpg   até   016 a.jpg / 016 b.jpg
+  -> animação: "a" visível, no hover desliza pra fora e "b" entra da direita
+
+- 017 a.jpg / 017 b.jpg
+  -> ESTE card é diferente: as duas fotos aparecem lado a lado,
+     sempre visíveis, sem hover (é o conjunto colar + brincos)
+
+PÁGINA 2 — Brincos (sem espaço, imagem única):
+- 018.jpg até 033.jpg
+  -> uma foto só por produto, estática (sem animação)
+
+Cards "Faça já o seu pedido" (meio da página e no final):
+- já estão configurados para abrir o WhatsApp ao clicar
+  (https://wa.me/5511977924815 com mensagem pré-pronta)
+
+Formato recomendado: JPG, largura mínima de ~900px.
+Para os pares "a"/"b" (001–017), use a mesma proporção entre
+as duas fotos do mesmo produto, pra transição ficar sem "pulos".
