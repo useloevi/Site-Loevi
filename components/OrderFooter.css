@@ -1,0 +1,72 @@
+.order-footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  padding: 40px;
+  gap: 40px;
+  background-color: #f9f5ec;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+}
+
+.order-card {
+  display: block;
+  text-decoration: none;
+  background-color: #a9b485;
+  border-radius: 16px;
+  padding: 32px 28px;
+  max-width: 460px;
+  flex: 1;
+  min-width: 260px;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.order-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(27, 49, 37, 0.2);
+}
+
+.order-card__cta {
+  font-family: "Parisienne", cursive;
+  font-size: 28px;
+  color: #1b3125;
+  margin: 0 0 14px 0;
+}
+
+.order-card__whats {
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  color: #f9f5ec;
+  margin: 0 0 8px 0;
+}
+
+.order-card__insta {
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #1b3125;
+  margin: 0;
+}
+
+.order-footer__title {
+  font-family: "Cormorant SC", serif;
+  font-weight: 400;
+  font-size: 44px;
+  color: #1b3125;
+  text-decoration: underline;
+  margin: 0 0 0 auto;
+}
+
+@media (max-width: 640px) {
+  .order-footer {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .order-footer__title {
+    margin: 0;
+  }
+}
