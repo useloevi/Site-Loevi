@@ -1,0 +1,85 @@
+.closing-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 40px;
+  background-color: #1b3125;
+  box-sizing: border-box;
+}
+
+.closing-footer__card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 14px;
+  text-decoration: none;
+  background-color: #f9f5ec;
+  border-radius: 16px;
+  padding: 32px 28px;
+  width: 460px;
+  max-width: 100%;
+  box-sizing: border-box;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.closing-footer__card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+}
+
+.closing-footer__cta {
+  font-family: var(--font-parisienne), "Parisienne", cursive;
+  font-size: 28px;
+  color: #a9b485;
+  margin: 0;
+}
+
+.closing-footer__whats,
+.closing-footer__insta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-family: var(--font-be-vietnam-pro), "Be Vietnam Pro", sans-serif;
+  font-size: 16px;
+  color: #a9b485;
+  margin: 0;
+}
+
+.closing-footer__whats {
+  font-weight: 600;
+}
+
+.closing-footer__spacer {
+  height: 10px;
+  width: 100%;
+}
+
+.closing-footer__novidades {
+  font-family: var(--font-parisienne), "Parisienne", cursive;
+  font-size: 26px;
+  color: #f9f5ec;
+  margin: 0;
+}
+
+.closing-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 80px 20px;
+  background-color: #f9f5ec;
+  box-sizing: border-box;
+}
+
+.closing-logo__text {
+  font-family: var(--font-cormorant-sc), "Cormorant SC", serif;
+  font-weight: 400;
+  font-size: 56px;
+  letter-spacing: 4px;
+  color: #1b3125;
+  margin: 0;
+}
