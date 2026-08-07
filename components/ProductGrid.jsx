@@ -14,7 +14,7 @@ const products = [
   ["006", "Colar V Cristais", "Colar banhado a prata com cristais em zircônia", "R$ 37,80"],
   ["007", "Colar Espírito Santo", "Colar banhado a ouro com pedrinhas de zircônia", "R$ 39,80"],
   ["008", "Choker Solar", "Colar banhado a ouro", "Indisponível"],
-  ["009", "Colar Bolinhas", "Colar banhado a prata", "R$ 33,80"],
+  ["009", "Colar Bolinhas", "Colar banhado a prata", "Indisponível"],
   ["010", "Colar Gota", "Colar banhado a ouro", "Indisponível"],
   ["011", "Colar Gota Cristal", "Colar banhado a ouro com pedra de zircônia", "R$ 37,80"],
   ["012", "Colar Arco", "Colar banhado a ouro com pedrinhas de zircônia", "R$ 35,80"],
