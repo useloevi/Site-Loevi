@@ -6,22 +6,22 @@ import "./ProductRow.css";
 // Cards 001–016: animação de hover (a some, b desliza da direita)
 // Card 017: card único, estático, ocupa a linha inteira — usa só "017 a.jpg"
 const products = [
-  ["001", "Choker Rivieira Prata", "Colar banhado a prata com pedrinhas de zircônia", "Indisponível"],
+  ["001", "Choker Rivieira Prata", "Colar banhado a prata com pedrinhas de zircônia", "Esgotado"],
   ["002", "Colar Navete Dourado", "Colar banhado a ouro com pedrinhas de zircônia", "R$ 49,00"],
-  ["003", "Choker Florença", "Colar banhado a prata", "Indisponível"],
+  ["003", "Choker Florença", "Colar banhado a prata", "Esgotado"],
   ["004", "Choker Amendoada", "Colar banhado a prata", "R$ 41,80"],
   ["005", "Choker Elos", "Colar banhado a prata com elos quadrados", "R$ 37,80"],
   ["006", "Colar V Cristais", "Colar banhado a prata com cristais em zircônia", "R$ 37,80"],
   ["007", "Colar Espírito Santo", "Colar banhado a ouro com pedrinhas de zircônia", "R$ 39,80"],
-  ["008", "Choker Solar", "Colar banhado a ouro", "Indisponível"],
-  ["009", "Colar Bolinhas", "Colar banhado a prata", "Indisponível"],
-  ["010", "Colar Gota", "Colar banhado a ouro", "Indisponível"],
-  ["011", "Colar Gota Cristal", "Colar banhado a ouro com pedra de zircônia", "R$ 37,80"],
-  ["012", "Colar Arco", "Colar banhado a ouro com pedrinhas de zircônia", "R$ 35,80"],
+  ["008", "Choker Solar", "Colar banhado a ouro", "Esgotado"],
+  ["009", "Colar Bolinhas", "Colar banhado a prata", "Esgotado"],
+  ["010", "Colar Gota", "Colar banhado a ouro", "Esgotado"],
+  ["011", "Colar Gota Cristal", "Colar banhado a ouro com pedra de zircônia", "Esgotado"],
+  ["012", "Colar Arco", "Colar banhado a ouro com pedrinhas de zircônia", "Esgotado"],
   ["013", "Colar Mini Corações", "Colar banhado a ouro", "R$ 39,80"],
-  ["014", "Colar Duplo Coração", "Colar banhado a ouro", "Indisponível"],
+  ["014", "Colar Duplo Coração", "Colar banhado a ouro", "Esgotado"],
   ["015", "Colar Gota Glow", "Colar banhado a prata com pedra de zircônia", "R$ 41,80"],
-  ["016", "Conjunto Turmalina", "Conjunto de colar e brincos banhados a prata com pedra verde", "R$ 63,80"],
+  ["016", "Conjunto Turmalina", "Conjunto de colar e brincos banhados a prata com pedra verde", "Esgotado"],
 ];
 
 // Card 017 vem separado: agora é único e estático (sem hover, sem "b")
