@@ -20,7 +20,7 @@ const products = [
   ["012", "Colar Arco", "Colar banhado a ouro com pedrinhas de zircônia", "Esgotado"],
   ["013", "Colar Mini Corações", "Colar banhado a ouro", "R$ 39,80"],
   ["014", "Colar Duplo Coração", "Colar banhado a ouro", "Esgotado"],
-  ["015", "Colar Gota Glow", "Colar banhado a prata com pedra de zircônia", "R$ 41,80"],
+  ["015", "Colar Gota Glow", "Colar banhado a prata com pedra de zircônia", "Esgotado"],
   ["016", "Conjunto Turmalina", "Conjunto de colar e brincos banhados a prata com pedra verde", "Esgotado"],
 ];
 
