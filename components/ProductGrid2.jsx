@@ -16,7 +16,7 @@ const products = [
   ["027", "Brinco Sol", "Brincos banhados a ouro", "R$ 33,80"],
   ["028", "Argola Tradicional G", "Brincos banhados a prata", "Esgotado"],
   ["029", "Argola Quadrada", "Brincos banhados a prata", "Esgotado"],
-  ["030", "Piercing Fake Zig Zag", "Piercing fake banhado a prata com pedrinhas, 1 unidade", "R$ 19,90"],
+  ["030", "Piercing Fake Zig Zag", "Piercing fake banhado a prata com pedrinhas, 1 unidade", "Esgotado"],
   ["031", "Piercing Fake Torcido", "Piercing fake banhado a prata, 1 unidade", "R$ 19,90"],
   ["032", "Trio Turmalina", "3 Brincos banhados a prata com pedras", "Esgotado"],
   ["033", "Argola Achatada Dourada", "Brincos banhados a ouro", "R$ 49,80"],
