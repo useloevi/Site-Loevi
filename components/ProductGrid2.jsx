@@ -10,7 +10,7 @@ const products = [
   ["021", "Argolinhas Estrela", "Brincos banhados a prata com pedrinhas de zircônia", "R$ 39,80"],
   ["022", "Trio Argolinhas Torcidas", "Kit 3 Brincos banhados a ouro", "Esgotado"],
   ["023", "Brincos Gotas de Zircônia", "Brincos banhados a prata com pedras de zircônia", "R$ 38,80"],
-  ["024", "Brincos Zircônia Solar", "Brincos banhados a ouro com pedras de zircônia irregulares", "R$ 38,80"],
+  ["024", "Brincos Zircônia Solar", "Brincos banhados a ouro com pedras de zircônia irregulares", "Esgotado"],
   ["025", "Brinco Asa de Fada Dourado", "Brincos banhados a ouro com pedrinhas de zircônia", "R$ 38,80"],
   ["026", "Brincos Flor de Zircônia", "Brincos banhados a prata com pedrinhas de zircônia", "R$ 37,80"],
   ["027", "Brinco Sol", "Brincos banhados a ouro", "R$ 33,80"],
